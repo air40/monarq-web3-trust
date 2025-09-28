@@ -1,0 +1,17 @@
+# Monarq Technology – How It Works
+
+## 🔒 Escrow Engine Process
+1. A transaction is created and assets are locked in escrow  
+2. Predefined conditions are coded (e.g., “Deliver X, then release Y”)  
+3. Once conditions are met, escrow automatically executes  
+4. If conditions fail, funds are safely returned  
+
+## ⚙️ Key Features
+- **Programmable Logic** → Customizable escrow rules  
+- **Trustless** → No central party controls funds  
+- **Cross-Platform** → Works across gig apps, NFT markets, games, DeFi  
+- **Fraud-Resistant** → Reduces disputes and scams  
+
+## 🌐 Integration
+- APIs and modules for easy integration into platforms  
+- Designed for scalability and adoption in both Web2 and Web3 ecosystems
